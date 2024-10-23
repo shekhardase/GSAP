@@ -3,7 +3,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
 
 html,
@@ -13,7 +13,7 @@ body {
 }
 
 body {
-  background: #000000f0;
+  background: #040d1f;
 }
 #box1 {
   height: 300px;
