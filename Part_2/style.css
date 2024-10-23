@@ -1,0 +1,87 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: gilroy;
+}
+
+h1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+h2 {
+  color: wheat;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  /* overflow-x: hidden; */
+}
+
+body {
+  overflow-x: hidden;
+}
+#page1 {
+  height: 100%;
+  width: 100%;
+  background-color: #add8e6; /* Lighter shade of blue */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#page2 {
+  height: 100%;
+  width: 100%;
+  background-color: #ffffff; /* Medium shade of blue */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#page3 {
+  height: 100%;
+  width: 100%;
+  background-color: #000047; /* Darker shade of blue */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#page4 {
+  height: 100%;
+  width: 100%;
+  background-color: #000000; /* Darker shade of blue */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#page6 {
+  height: 100%;
+  width: 100%;
+  background-color: #000000; /* Darker shade of blue */
+}
+
+#box {
+  height: 400px;
+  width: 400px;
+  background: crimson;
+}
+
+#page5 {
+  height: 100%;
+  width: 100%;
+  background-color: #340028;
+}
+
+#page5 h3 {
+  font-size: 40vw; /* Adjusted size to prevent overflow */
+  color: white;
+  font-weight: 100;
+  font-style: normal;
+  font-family:'Courier New', Courier, monospace;
+}
