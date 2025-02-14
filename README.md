@@ -1,5 +1,5 @@
 
-  <img src="https://raw.githubusercontent.com/onemarc/tech-icons/292cfceecce6a863e9a10216c1c730d3a1a02ff5/icons/gsap.svg" alt="GSAP Logo" width="100" style="margin-right: 10px;">
+  <img src="https://seeklogo.com/images/G/greensock-gsap-icon-logo-13BB451E88-seeklogo.com.png" alt="GSAP Logo" width="100" style="margin-right: 10px;">
 
 
 # Why?
